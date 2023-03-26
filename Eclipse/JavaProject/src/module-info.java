@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author eduardapaimdasilva
+ *
+ */
+module JavaProject {
+}
